@@ -1,10 +1,23 @@
-
-button {
-  background-color: lavender;
+body{
+  font-family: 'Courier New', Courier, monospace;
 }
-.anna {
-  font-family:cursive;
+div{
+  border: solid 1px blue;
+  margin:10px;
+  width:300px;
 }
-#demo{
-  background: yellow;
+h1{
+  text-align: center;
+}
+#happy{
+  background-color: yellow;
+}
+img{
+  margin-left:20px;
+  margin-bottom:20px;
+}
+#hello{
+  position: absolute;
+  top:10px;
+  left:50%;
 }
